@@ -1,0 +1,15 @@
+var
+    entero: variable_1 := 3;
+    entero:d%;
+const
+inicio
+    variable := -24.2;
+    escribir("Hola Mundo");
+    escribir(variable);
+    escribir "" + variable + "sigue" + variable);
+    escribir("pito");
+    leer(variable);
+    para i 10 hasta 26 hacer
+	iniciopara
+	finpara
+fin
