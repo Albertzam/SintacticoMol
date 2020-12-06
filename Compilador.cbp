@@ -35,6 +35,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="EstructuraToken.h" />
+		<Unit filename="FaseSintaxis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FaseSintaxis.h" />
 		<Unit filename="Identificador.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -47,10 +51,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="PalabraReservada.h" />
-		<Unit filename="Sintaxis/FaseSintaxis.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Sintaxis/FaseSintaxis.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
