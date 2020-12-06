@@ -1,15 +1,8 @@
-var
-    entero: variable_1 := 3;
-    entero:d%;
-const
-inicio
-    variable := -24.2;
-    escribir("Hola Mundo");
-    escribir(variable);
-    escribir "" + variable + "sigue" + variable);
-    escribir("pito");
-    leer(variable);
-    para i 10 hasta 26 hacer
-	iniciopara
-	finpara
-fin
+para x := 1 hasta 10 hacer
+  iniciopara
+    si (x > 1) entonces
+      iniciosi
+        leer(x);
+        escribir("el valor de x es " + x);
+      finsi
+  finpara

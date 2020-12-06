@@ -231,3 +231,66 @@
 	<string.h>
 	"PalabraReservada.h"
 
+1607215822 source:c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\estructuratoken.c
+	"EstructuraToken.h"
+	"main.h"
+	"PalabraReservada.h"
+	"Identificador.h"
+	"Numeros.h"
+
+1607211084 c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\estructuratoken.h
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<ctype.h>
+	<Windows.h>
+
+1607212168 c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\main.h
+	"EstructuraToken.h"
+	"FaseSintaxis.h"
+
+1607137530 c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\palabrareservada.h
+
+1607137530 c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\identificador.h
+
+1607137530 c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\numeros.h
+
+1607137530 source:c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\identificador.c
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Identificador.h"
+
+1607137530 source:c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\numeros.c
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"Numeros.h"
+
+1607215762 source:c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\palabrareservada.c
+	<stdbool.h>
+	<string.h>
+	"PalabraReservada.h"
+
+1607218546 source:c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<Windows.h>
+	"main.h"
+	"PalabraReservada.h"
+	"Identificador.h"
+	"Numeros.h"
+
+1607212082 c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\fasesintaxis.h
+
+1607219061 source:c:\users\geron\documents\01.uas\semestre vii\01.software sistemas\04.compilador\sintacticomol\fasesintaxis.c
+	"EstructuraToken.h"
+	"FaseSintaxis.h"
+
